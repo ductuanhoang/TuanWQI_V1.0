@@ -1,0 +1,18 @@
+system_MK64F12.pbi: \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\devices\MK64F12\system_MK64F12.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\devices\MK64F12/fsl_device_registers.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\devices\MK64F12/MK64F12.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\iar/../../../../../CMSIS/Include\core_cm4.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\iar/../../../../../CMSIS/Include/core_cmInstr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\cmsis_iar.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c/iccarm_builtin.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\iar/../../../../../CMSIS/Include/core_cmFunc.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\iar/../../../../../CMSIS/Include/core_cmSimd.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\devices\MK64F12/system_MK64F12.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\devices\MK64F12/MK64F12_features.h

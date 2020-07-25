@@ -1,0 +1,12 @@
+slld.pbi: \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\FlashDriver\slld.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\FlashDriver/slld.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\FlashDriver/slld_targetspecific.h \
+  D:\3\4.TestPeripherals\TuanWQI_V1.0\SDK_2.2_FRDM-K64F\boards\frdmk64f\rtos_examples\freertos_hello\FlashDriver/slld_hal.h
